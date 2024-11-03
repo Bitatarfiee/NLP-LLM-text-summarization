@@ -1,5 +1,5 @@
 # NLP-LLM-and-text-summarization
-The code is a part of Text mining course Labs
+The code is a part of the Text mining course Labs.\
 
 Large language models (LLMs) are deep neural networks trained on the language modelling task over massive amounts of text data.\
 Analyse token and sentence representations from a language model of the “BERT” family of models.
