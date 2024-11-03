@@ -21,7 +21,7 @@ The code includes:
   - Sampling from the probability distribution  
 
 ## Libs
-!pip install torch
-!pip install transformers
-import os
+!pip install torch\
+!pip install transformers\
+import os\
 from ctransformers import AutoModelForCausalLM, AutoTokenizer
